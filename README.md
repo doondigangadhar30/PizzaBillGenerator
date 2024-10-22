@@ -23,6 +23,7 @@ To run the Pizza Bill Generator, you can use **Google Colab**.
 
 ## Example
 Here’s what the program looks like when executed:
+![Untitled design (2)](https://github.com/user-attachments/assets/a0a44ffa-26cd-4fe5-ab62-45dfc29cf31f)
 
 ## Links 📌
 
