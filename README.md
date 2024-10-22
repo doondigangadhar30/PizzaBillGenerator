@@ -28,7 +28,7 @@ Here’s what the program looks like when executed:
 ## Links 📌
 
 - Live Site URL: https://colab.research.google.com/drive/1xazr42-UbFpB1QmUwfBLl6DgUauHcIbS?usp=drive_link
-- Project Repo: https://github.com/doondigangadhar30/pizzaBillGenerator
+- Project Repo: https://github.com/doondigangadhar30/PizzaBillGenerator
 - Let's connect: [LinkedIn](https://www.linkedin.com/in/doondi/) 
 
 ---
